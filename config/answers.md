@@ -8,3 +8,7 @@ CSS id for the text “User was successfully created.” :
   
   Does Rails display a message by default when a user is destroyed? yes display
   
+  HTML inspector to determine the CSS id of the error message produced by the previous exercise
+  
+  error_explanation
+  
